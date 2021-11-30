@@ -147,21 +147,21 @@
   "buffers": [
     {
       "byteLength": 607376,
-      "uri": "scene.bin"
+      "uri": "assets/jinxs_grenade_from_arcane/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/grenade_baseColor.png"
+      "uri": "assets/jinxs_grenade_from_arcane/textures/grenade_baseColor.png"
     },
     {
-      "uri": "textures/grenade_metallicRoughness.png"
+      "uri": "assets/jinxs_grenade_from_arcane/textures/grenade_metallicRoughness.png"
     },
     {
-      "uri": "textures/grenade_emissive.png"
+      "uri": "assets/jinxs_grenade_from_arcane/textures/grenade_emissive.png"
     },
     {
-      "uri": "textures/grenade_normal.png"
+      "uri": "assets/jinxs_grenade_from_arcane/textures/grenade_normal.png"
     }
   ],
   "materials": [
